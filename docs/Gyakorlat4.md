@@ -14,7 +14,7 @@
 - Mindenki a saját userét használja ezután, hogy izoláltan dolgozzatok!
 
 
-## Feladat 1. - OpenShift S2I
+## Feladat 1. - OpenShift S2I - önálló
 **Időtartam: ~30 perc**
 
 ### Célja, leírás

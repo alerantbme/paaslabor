@@ -9,9 +9,9 @@
 Az értékelés/érdemjegy alapja az alábbi beküldött Google Forms jegyzőkönyv, mindenki töltse ki és küldje el az email címével.
 A jegyzőkönyvben tesztkérdések és a gyakorlatok anyagaiból felmásolandó feladatok is vannak. Érdemes menet közben tölteni és egy külön dokumentumban külön is tárolni, nehogy elvesszen, vagy később is be tudjátok küldeni!
  
-Jegyzőkönyv (03.06) [itt](https://goo.gl/forms/YCokX5EYOEZmGF4q2)
+Jegyzőkönyv (03.13) [itt](https://goo.gl/forms/Th2800pkAjjA3yME3)
 
-Jegyzőkönyv (03.07) [itt](https://goo.gl/forms/TPhCkl94uJim9AqJ3)
+Jegyzőkönyv (03.14) [itt](https://goo.gl/forms/zzlRX43Eh8fiYU7m1)
 
 
 **A jegyzőkönyvet a labor hetének a végéig (vasárnap 23:59-ig) küldjétek be!**

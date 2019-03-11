@@ -79,7 +79,7 @@ router-1-wksfx             1/1       Running   1          2d
 ### A feladatokhoz szükséges CLI parancsok:
 ```shell
 oc help
-oc login -u system:admin
+oc login -u studentxy -p studentxy
 oc new-project
 oc whoami
 oc status

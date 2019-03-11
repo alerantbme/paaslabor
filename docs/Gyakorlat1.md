@@ -25,7 +25,7 @@ ip link show
 
 ---
 
-## Feladat 1. - Docker alapműveletek 
+## Feladat 1. - Docker alapműveletek - vezetett
 **Időtartam: ~15-30 perc**
 
 ### Célja, leírás
@@ -52,7 +52,7 @@ A jegyzőkönyvhöz másold ki egy text fájlba az utolsó pontra adott választ
 
 ---
 
-## Feladat 2. - Docker www szerver
+## Feladat 2. - Docker www szerver - önálló
 **Időtartam: ~15 perc**
 
 ### Célja, leírás
@@ -72,7 +72,7 @@ A legfontosabb parancsokkal együtt egy 2-3 mondatos leírás legyen, hogy hogya
 
 ---
 
-## Feladat 3. - Docker hálózatok
+## Feladat 3. - Docker hálózatok - önálló
 **Időtartam: ~15 perc**
 
 ### Célja, leírás

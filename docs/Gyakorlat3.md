@@ -9,7 +9,7 @@
   - Projektek nevei: gyakorlatNxy - N a gyakorlat száma,  x, y lsd. előbb, pl. gyakorlat2nz (kisbetűk)
 - Mindenki a saját userét használja ezután, hogy izoláltan dolgozzatok!
 
-## Feladat 1. - Deployment Triggerek, Deployment stratégiák
+## Feladat 1. - Deployment Triggerek, Deployment stratégiák - vezetett
 **Időtartam: ~10 perc**
 
 ### Célja, leírás

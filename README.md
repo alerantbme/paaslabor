@@ -40,7 +40,7 @@ A labor célja a következő témák áttekintése:
 [A gyakorlat itt érhető el](docs/Gyakorlat1.md)
 ## Gyakorlat 2. - OpenShift alapműveletek, alapfogalmak a gyakorlatban
 [A gyakorlat itt érhető el](docs/Gyakorlat2.md)
-## Gyakorlat 3. - OpenShift Alkalmazás telepítés - bemutató
+## Gyakorlat 3. - OpenShift Alkalmazás telepítés
 [A gyakorlat itt érhető el](docs/Gyakorlat3.md)
 ## Gyakorlat 4. - OpenShift S2I deployment
 [A gyakorlat itt érhető el](docs/Gyakorlat4.md)

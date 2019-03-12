@@ -89,3 +89,21 @@ Futtassuk az előbbi konténert, ami kinyitja a 80-as portot és ellenőrizzük 
 _Hint: ezek a parancsok lesznek hasznotokra: docker network, brctl, ifconfig_
 ### Jegyzőkönyvhöz
 A jegyzőkönyvben szereplő kérdést válaszold meg!
+
+## Feladat 4. - runc, rootf, container Docker nélkül - bemutató
+**Időtartam: ~15 perc**
+
+### Célja, leírás
+Ismerjük meg a Docker nélküli eszközöket is.
+
+```
+sudo yum install runc
+mkdir -p cirros/rootfs
+docker export $(docker create cirros) |tar -C rootfs -xvf -
+tree
+sudo runc spec
+sudo runc run cirros
+```
+
+### Jegyzőkönyvhöz
+Nincs jegyzőkönyv érintettség.

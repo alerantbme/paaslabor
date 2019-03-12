@@ -102,6 +102,13 @@ docker export $(docker create cirros) |tar -C rootfs -xvf -
 tree
 sudo runc spec
 sudo runc run cirros
+
+--docker-containerd-shim
+--futó containerek config.json-ja
+ ps aux | grep docker-containerd-shim
+ cd /var/run/docker/libcontainerd/...
+ cat config.json
+
 ```
 
 ### Jegyzőkönyvhöz

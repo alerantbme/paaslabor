@@ -2,9 +2,9 @@
 
 ## VirtualBox importálás
 
-Otthoni munkához, a gyakorlatok befejezéséhez a virtuális gép letölthető innen (BME hálóról): curl -O http://ossrv1.aut.bme.hu/ALBME_PaaSLabor_CentOS7_2019v1.ova (vagy csak böngészőbe másold be) 
+Otthoni munkához, a gyakorlatok befejezéséhez a virtuális gép letölthető innen (BME hálóról): curl -O http://ossrv1.aut.bme.hu/ALBME_PaaSLabor_CentOS7_2019v2.ova (vagy csak böngészőbe másold be) 
 
-Labor során a desktop gépen is megvan itt: C:\VPCImages\BI\ALBME_PaaSLabor_CentOS7_2019v1.ova
+Labor során a desktop gépen is megvan itt: C:\VPCImages\BI\ALBME_PaaSLabor_CentOS7_2019v2.ova
 
 ### Korábbi virtuális gép törlése
 Óvatosan, nehogy más virtuális gépét töröljétek ki!

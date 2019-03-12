@@ -57,14 +57,13 @@ A jegyzőkönyvhöz másold ki egy text fájlba az utolsó pontra adott választ
 
 ### Célja, leírás
 Ennek a feladatnak a célja, hogy egy futó konténernek valahogy a hasznát is vegyük. 
-A feladat, hogy futtassatok Docker containerben egy web szervert. A host gépen megnyitva egy Firefoxot ezen az URL-en http://localhost írja ki, hogy Hello BME Paas labor! 80-as port ütközhet, ekkor válasszatok más portot.
+A feladat, hogy futtassatok Docker containerben egy web szervert. A host gépen megnyitva egy Firefoxot ezen az URL-en http://localhost:8080 írja ki, hogy Hello BME Paas labor!
 
 Javasolt web szerver: nginx (de lehet más is)
 A következőket biztosan meg kell oldani:
 
-1. A konténer belső portjának megnyitása a host felé (_docker run -P_)
-2. Figyeljétek meg a konténer státuszát! élettartamát! Ha megváltoztattok benne pl. egy index.html-et és leállítjátok, akkor egy új konténer indításánál nem lesz ott. Miért? El lehet-e indítani egy korábban módosított konténert (docker ps -a)?
-3. (Opcionális) Esetleg köteg becsatolással is megoldható (docker run -v ...).
+1. A konténer belső portjának megnyitása a host felé (_docker run -p_)
+2. Köteg becsatolással oldjátok meg, hogy a webszerver html oldalait kívülről adjátok meg (docker run -v ...).
 
 _Hint: ezek a parancsok lesznek hasznotokra: docker run -p, stb._
 ### Jegyzőkönyvhöz

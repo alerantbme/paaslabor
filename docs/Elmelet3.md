@@ -31,7 +31,7 @@ OKD = The Origin Community Distribution of Kubernetes
 # Alapfogalmak
 - **Project**: adminisztratív izoláció, az egyes szállítók külön-külön egymástól izolálva dolgozhatnak egy-egy projekten. A Node-ot kivéve minden OpenShift entitás/resource Project scopeú.
 - **User**: az OpenShift felhasználói, akik tevékenysége jogosultságkezeléssel korlátozható
-- **Container, Image, Registry**: Az OpenShift a Docker-t használja konténer technológiaként ezért ezek pontosan a Docker foglamak.
+- **Container, Image, Registry**: Az OpenShift a Docker-t használja konténer technológiaként ezért ezek pontosan a Docker fogalmak.
 - **Pod**: Egy vagy több konténer, közös tárterülettel, hálózattal. Telepítési, management egység.
 - **Node**: Podokat futtató gép.
 - **Service**: Egy belső hálózati portot reprezentál, amin -abstrakt módon- elérhetőek a mögé bekötött POD-ok ill. azok szolgáltatásai. Belső terhelés elosztóként működnek. 

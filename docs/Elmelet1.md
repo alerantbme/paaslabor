@@ -21,7 +21,7 @@ Tipikusan alkalmazásszervereket, middleware-ket, alkalmazás futtatókörnyezet
 Tipikusan kész alkalmazások, azok szolgáltatásait biztosítja a használói számára (pl. szükségem van egy levelező rendszerre, CRM alkalmazásra, Webshopra stb.)
 
 - **Scope:** Alkalmazások, szolgáltatások
-- **Előnyök:** azonnal elérhető, használható szolgáltatásom van; nincsenek fejlesztési költségek; egyszeri beruházsá helyett rendszeres díjazás
+- **Előnyök:** azonnal elérhető, használható szolgáltatásom van; nincsenek fejlesztési költségek; egyszeri beruházás helyett rendszeres díjazás
 - **Célcsoport:** végfelhasználók
 - **Példák:** Office Cloud, Google Apps (Forms, Calendar, ...)
 
